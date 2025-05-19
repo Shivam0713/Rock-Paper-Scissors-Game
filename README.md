@@ -19,9 +19,7 @@ A fun and interactive **Rock-Paper-Scissors** game built using **HTML**, **CSS**
 
 ## 🖼️ Preview (<a href="https://shivam0713.github.io/Rock-Paper-Scissors-Game/">View Live</a>)
 
-![Game Preview](./screenshot.png)
-
-> Replace the link and image with your actual deployed URL and a screenshot of the game.
+![Game Preview](./Screenshot.png)
 
 ## 📂 Project Structure
 
