@@ -15,7 +15,7 @@ A fun and interactive **Rock-Paper-Scissors** game built using **HTML**, **CSS**
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ## 🖼️ Preview (<a href="https://shivam0713.github.io/Rock-Paper-Scissors-Game/">View Live</a>)
 
